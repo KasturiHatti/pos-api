@@ -127,3 +127,6 @@ lombok
 3. http://${hostname}:${port}/sales - This API BE changes to return the sales within a date range with 1 hour time interval can be done in SQL. Currently handled in Java code.
 4. Payment Methods can be made more configurable by putting in properties file. Some code is already available to make it configurable in the source code. 
     
+Note about the account :
+
+I used my personal machine to work on this project where I have one more account configured with name KalmeshBhavi. If you find this name anywhere here please don't get confused. 
