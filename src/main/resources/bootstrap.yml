@@ -1,0 +1,17 @@
+spring:
+  datasource:
+    driver-class-name: com.mysql.jdbc.Driver
+    url: jdbc:mysql://localhost:3306/pos
+    username: root
+    password: DBP@ssw0rd
+  jpa:
+    hibernate:
+      ddl-auto: update
+pos:
+  point-map:
+    CASH: 0.05
+    CASH_ON_DELIVERY: 0.05
+    VISA: 0.03
+    MASTERCARD: 0.03
+    AMEX: 0.02
+    JCB: 0.05
