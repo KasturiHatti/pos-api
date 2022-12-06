@@ -129,4 +129,4 @@ lombok
     
 Note about the account :
 
-I have multiple accounts configured on my personal laptop as multiple members of the family uses same machine. If you see two accounts with code commits and anywhere else please don't get confused. It is still me. Thank you for understanding
+Initially I used my personal machine to work on this project but the configurations were not working well hence I could not run the project. Then I changed to a different machine where I have valid jetbrains account where I could successfuly run the project. Because of this reason you are seeing two contributors. Hope that is understandable. 
